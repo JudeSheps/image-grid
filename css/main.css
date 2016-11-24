@@ -21,6 +21,7 @@ body {
 }
 
 img {
+  display: inline-block;
   float: left;
   width: 100%;
 }
